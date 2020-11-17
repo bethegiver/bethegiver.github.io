@@ -1,1 +1,1 @@
-bethegiver.github.io
+http://bethegiver.github.io
